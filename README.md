@@ -5,7 +5,7 @@
 ### Overview
 
 This repository documents an academic paper representing a pivotal milestone within my Master's program at University College Dublin (UCD). The focus of this project is the application of machine learning to uncover intricate patterns within textual data. Through the utilization of advanced AI techniques, the goal is to gain meaningful insights and unveil significant trends from within the text.
-![image](https://github.com/yinfangrtz/AI-Powered-Data-Pattern-Discovery/assets/106718273/e5211d6d-7bbc-41b5-9f16-fde9e44bc8d0)
+<img src="https://github.com/yinfangrtz/AI-Powered-Data-Pattern-Discovery/assets/106718273/e5211d6d-7bbc-41b5-9f16-fde9e44bc8d0" width="300" height="200" alt="Image">
 
 ### Project Details
 
