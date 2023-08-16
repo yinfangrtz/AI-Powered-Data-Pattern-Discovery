@@ -5,12 +5,12 @@
 ### Overview
 
 This repository documents an academic paper representing a pivotal milestone within my Master's program at University College Dublin (UCD). The focus of this project is the application of machine learning to uncover intricate patterns within textual data. Through the utilization of advanced AI techniques, the goal is to gain meaningful insights and unveil significant trends from within the text.
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FUniversity_College_Dublin&psig=AOvVaw0BG6ruan53PuooHEiGcMcO&ust=1692310709011000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjlhOea4oADFQAAAAAdAAAAABAE![image](https://github.com/yinfangrtz/AI-Powered-Data-Pattern-Discovery/assets/106718273/6f2ceb9b-fb9e-4d0e-b442-f10f96544a3f)
 
 ### Project Details
 
 ### Methodology
-The project revolves around the concept of text mining, where a comprehensive analysis of textual data is performed to uncover patterns, relationships, and correlations. The four essential steps of text mining are followed:
+The project revolves around the concept of text mining, where a comprehensive analysis of textual data is performed to uncover patterns, relationships, and correlations. The four essential steps of tex![image](https://github.com/yinfangrtz/AI-Powered-Data-Pattern-Discovery/assets/106718273/55853cec-ef4f-45c7-891a-0a2cb21631f9)
+t mining are followed:
 
 Feature Representation: Leveraging the power of unsupervised machine learning, specifically the word2vec algorithm, to represent words within the text as vectors.
 Feature Dimensionality Reduction: Reducing the dimensionality of the feature space, allowing for efficient analysis and pattern extraction.
