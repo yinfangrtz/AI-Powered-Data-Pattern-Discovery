@@ -9,8 +9,7 @@ This repository documents an academic paper representing a pivotal milestone wit
 ### Project Details
 
 ### Methodology
-The project revolves around the concept of text mining, where a comprehensive analysis of textual data is performed to uncover patterns, relationships, and correlations. The four essential steps of tex![image](https://github.com/yinfangrtz/AI-Powered-Data-Pattern-Discovery/assets/106718273/55853cec-ef4f-45c7-891a-0a2cb21631f9)
-t mining are followed:
+The project revolves around the concept of text mining, where a comprehensive analysis of textual data is performed to uncover patterns, relationships, and correlations. The four essential steps of text mining are followed:
 
 Feature Representation: Leveraging the power of unsupervised machine learning, specifically the word2vec algorithm, to represent words within the text as vectors.
 Feature Dimensionality Reduction: Reducing the dimensionality of the feature space, allowing for efficient analysis and pattern extraction.
